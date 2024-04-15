@@ -1,0 +1,14 @@
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\bin\Debug\net8.0\ProjetoCadastroDeClientes.exe
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\bin\Debug\net8.0\ProjetoCadastroDeClientes.deps.json
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\bin\Debug\net8.0\ProjetoCadastroDeClientes.runtimeconfig.json
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\bin\Debug\net8.0\ProjetoCadastroDeClientes.dll
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\bin\Debug\net8.0\ProjetoCadastroDeClientes.pdb
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\obj\Debug\net8.0\ProjetoCadastroDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\obj\Debug\net8.0\ProjetoCadastroDeClientes.AssemblyInfoInputs.cache
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\obj\Debug\net8.0\ProjetoCadastroDeClientes.AssemblyInfo.cs
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\obj\Debug\net8.0\ProjetoCadastroDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\obj\Debug\net8.0\ProjetoCadastroDeClientes.dll
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\obj\Debug\net8.0\refint\ProjetoCadastroDeClientes.dll
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\obj\Debug\net8.0\ProjetoCadastroDeClientes.pdb
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\obj\Debug\net8.0\ProjetoCadastroDeClientes.genruntimeconfig.cache
+C:\Users\vitor.hernandes\C#\ProjetoCadastroDeClientes\obj\Debug\net8.0\ref\ProjetoCadastroDeClientes.dll
